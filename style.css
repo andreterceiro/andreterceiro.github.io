@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: medium ; 
+    font-family: Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
+    width: 100%;
+    display: inline-block;
+    font-size:14px; 
+}
+
+a {
+    color: #008800;
+}
