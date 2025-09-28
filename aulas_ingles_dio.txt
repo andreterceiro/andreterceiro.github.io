@@ -9,3 +9,4 @@
 12/09/2025 - Como fazer uma application para uma vaga
 17/09/2025 - Apresentando-se e descrevendo seus objetivos de carreira
 24/09/2025 - superar a coding interview
+30/09/2025 - Compartilhando a sua formação e experiências acadêmicas
