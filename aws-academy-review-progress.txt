@@ -1,2 +1,2 @@
-Module: 4
-Vídeo: Seção 6: Trabalhar para garantir a conformidade
+Module: 5
+Vídeo: Seção 3: Redes VPC
