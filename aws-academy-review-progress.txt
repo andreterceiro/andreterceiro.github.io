@@ -1,2 +1,2 @@
 Module: 5
-Vídeo: Seção 3: Redes VPC
+Laboratório 2 - Crie sua VPC e execute um servidor web
