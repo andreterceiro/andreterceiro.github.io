@@ -1,2 +1,2 @@
 Module: 5
-Laboratório 2 - Crie sua VPC e execute um servidor web
+Seção 6: Amazon CloudFront
