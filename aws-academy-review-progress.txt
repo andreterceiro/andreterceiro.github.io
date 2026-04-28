@@ -1,2 +1,2 @@
-Module: 5
-Seção 6: Amazon CloudFront
+Module: 6
+Introdução ao Módulo 6
