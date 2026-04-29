@@ -1,2 +1,2 @@
 Module: 6
-Introdução ao Módulo 6
+Section 4: Amazon EC2 Parte 3
