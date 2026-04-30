@@ -1,2 +1,2 @@
 Module: 6
-Section 4: Amazon EC2 Parte 3
+Laboratório 3 - Introdução ao Amazon EC2
