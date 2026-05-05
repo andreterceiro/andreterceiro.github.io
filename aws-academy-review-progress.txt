@@ -1,2 +1,2 @@
 Module: 6
-Laboratório 3 - Introdução ao Amazon EC2
+Seção 5: Amazon Route 53
