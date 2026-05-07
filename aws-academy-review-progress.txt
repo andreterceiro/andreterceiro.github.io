@@ -1,2 +1,2 @@
 Module: 6
-Seção 5: Amazon Route 53
+Seção 4: Amazon EC2 Parte 3
