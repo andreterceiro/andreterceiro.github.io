@@ -1,2 +1,2 @@
-Module: 6
-Seção 4: Amazon EC2 Parte 3
+Módulo 7
+Seção 1: Amazon Elastic Block Store (Amazon EBS) 
