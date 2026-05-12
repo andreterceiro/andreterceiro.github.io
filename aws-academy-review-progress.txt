@@ -1,2 +1,2 @@
 Módulo 7
-Seção 1: Amazon Elastic Block Store (Amazon EBS) 
+Laboratório 4 - Trabalhando com EBS
