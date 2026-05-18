@@ -1,2 +1,2 @@
 Módulo 7
-Laboratório 4 - Trabalhando com EBS
+Demonstração - demonstração do console do Amazon Elastic File System
