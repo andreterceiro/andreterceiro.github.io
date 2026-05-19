@@ -1,2 +1,2 @@
 Módulo 7
-Demonstração - demonstração do console do Amazon Elastic File System
+Demonstração - demonstração do console do Amazon S3 Glacier
