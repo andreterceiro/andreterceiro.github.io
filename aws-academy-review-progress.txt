@@ -1,2 +1,2 @@
-Módulo 7
-Demonstração - demonstração do console do Amazon S3 Glacier
+Módulo 8: Bancos de dados
+Seção 1: Amazon Relational Database Service
