@@ -1,2 +1,2 @@
 Módulo 8: Bancos de dados
-Seção 1: Amazon Relational Database Service
+Laboratório 5 - Crie um servidor de banco de dados e interaja com o banco de dados usando um aplicativo
